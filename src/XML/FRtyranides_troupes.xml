@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tyranides_troupes>
+<language>FR</language>
+<Creator>Copyright Hugo Duret 2018</Creator>
+<License>MIT</License>
+<Version>Codex v.7</Version>
+<unite>
+<nom>Guerriers Tyranides</nom>
+<profil>
+    <CC>5</CC>
+    <CT>3</CT>
+    <F>4</F>
+    <E>4</E>
+    <PV>3</PV>
+    <I>4</I>
+    <A>3</A>
+    <Cd>10</Cd>
+    <Svg>4+</Svg>
+    <Type>Infanterie</Type>
+    <Pts-Fig>30</Pts-Fig>
+</profil>
+<armes>
+    <arme>Dévoreur</arme>
+    <arme>Griffes Tranchantes</arme>
+</armes>
+<regles_speciales>
+    <regle_speciale>Créature Synapse</regle_speciale>
+    <regle_speciale>L'ombre dans le Warp</regle_speciale>
+    <regle_speciale>Très massif</regle_speciale>
+</regles_speciales>
+<nombre_figurines>
+    <min>3</min>
+    <max>9</max>
+</nombre_figurines>
+<options>
+    <options_armes>
+        <option_arme>
+            <nom>Biocanon de Base</nom>
+            <max>1</max>
+        </option_arme>
+        <option_arme>
+            <nom>Bio-arme de base</nom>
+        </option_arme>
+            <option_arme>
+            <nom>Bio-arme de Mêlée</nom>
+        </option_arme>
+    </options_armes>
+    <options_ameliorations>
+        <option_amelioration>
+            <nom>Sacs à toxines</nom>
+            <prix>3 pts/figurine</prix>
+        </option_amelioration>
+        <option_amelioration>
+            <nom>Crochets</nom>
+            <prix>4 pts/figurine</prix>
+        </option_amelioration>
+        <option_amelioration>
+            <nom>Glandes surrénales</nom>
+            <prix>5 pts/figurine</prix>
+        </option_amelioration>
+    </options_ameliorations>
+</options>
+</unite>
+
+<unite>
+<nom>Génovores</nom>
+<profil>
+    <CC>6</CC>
+    <CT>0</CT>
+    <F>4</F>
+    <E>4</E>
+    <PV>1</PV>
+    <I>6</I>
+    <A>2</A>
+    <Cd>10</Cd>
+    <Svg>5+</Svg>
+    <Type>Infanterie</Type>
+    <Pts-Fig>14</Pts-Fig>
+</profil>
+<armes>
+    <arme>Serres perforantes</arme>
+</armes>
+<regles_speciales>
+    <regle_speciale>Course</regle_speciale>
+    <regle_speciale>Infiltration</regle_speciale>
+    <regle_speciale>Mouvement à couvert</regle_speciale>
+</regles_speciales>
+<nombre_figurines>
+    <min>5</min>
+    <max>20</max>
+</nombre_figurines>
+<options>
+    <options_armes>
+        <option_arme>
+            <nom>Griffes tranchantes</nom>
+            <prix>4 pts/figurine</prix>
+        </option_arme>
+    </options_armes>
+    <options_ameliorations>
+        <option_amelioration>
+            <nom>Sacs à toxines</nom>
+            <prix>3 pts/figurine</prix>
+        </option_amelioration>
+        <option_amelioration>
+            <nom>Glandes surrénales</nom>
+            <prix>2 pts/figurine</prix>
+        </option_amelioration>
+    </options_ameliorations>
+</options>
+</unite>
+
+
+<unite>
+<nom>Termagants</nom>
+<profil>
+    <CC>3</CC>
+    <CT>3</CT>
+    <F>3</F>
+    <E>3</E>
+    <PV>1</PV>
+    <I>4</I>
+    <A>1</A>
+    <Cd>6</Cd>
+    <Svg>6+</Svg>
+    <Type>Infanterie</Type>
+    <Pts-Fig>4</Pts-Fig>
+</profil>
+<armes>
+    <arme>Écorcheur</arme>
+</armes>
+<regles_speciales>
+    <regle_speciale>Comportement instinctif (préservation)</regle_speciale>
+    <regle_speciale>Mouvement à couvert</regle_speciale>
+</regles_speciales>
+<nombre_figurines>
+    <min>10</min>
+    <max>30</max>
+</nombre_figurines>
+<options>
+    <options_armes>
+        <option_arme>
+            <nom>Points épineux</nom>
+            <prix>gratuit</prix>
+        </option_arme>
+        <option_arme>
+            <nom>Fusil à pointes</nom>
+            <prix>gratuit</prix>
+        </option_arme>
+        <option_arme>
+            <nom>Dévoreur</nom>
+            <prix>4 pts/figurine</prix>
+        </option_arme>
+    </options_armes>
+    <options_ameliorations>
+        <option_amelioration>
+            <nom>Sacs à toxines</nom>
+            <prix>2 pts/figurine</prix>
+        </option_amelioration>
+        <option_amelioration>
+            <nom>Glandes surrénales</nom>
+            <prix>2 pts/figurine</prix>
+        </option_amelioration>
+    </options_ameliorations>
+</options>
+</unite>
+
+<unite>
+<nom>Hormagaunts</nom>
+<profil>
+    <CC>3</CC>
+    <CT>3</CT>
+    <F>3</F>
+    <E>3</E>
+    <PV>1</PV>
+    <I>5</I>
+    <A>2</A>
+    <Cd>6</Cd>
+    <Svg>6+</Svg>
+    <Type>Infanterie</Type>
+    <Pts-Fig>5</Pts-Fig>
+</profil>
+<armes>
+    <arme>Griffes tranchantes</arme>
+</armes>
+<regles_speciales>
+    <regle_speciale>Acrobaties</regle_speciale>
+    <regle_speciale>Courses</regle_speciale>
+    <regle_speciale>Comportement instinctif (nutrition)</regle_speciale>
+    <regle_speciale>Mouvement à couvert</regle_speciale>
+</regles_speciales>
+<nombre_figurines>
+    <min>10</min>
+    <max>30</max>
+</nombre_figurines>
+<options>
+    <options_ameliorations>
+        <option_amelioration>
+            <nom>Sacs à toxines</nom>
+            <prix>3 pts/figurine</prix>
+        </option_amelioration>
+        <option_amelioration>
+            <nom>Glandes surrénales</nom>
+            <prix>2 pts/figurine</prix>
+        </option_amelioration>
+    </options_ameliorations>
+</options>
+</unite>
+
+
+<unite>
+<nom>Voraces</nom>
+<profil>
+    <CC>2</CC>
+    <CT>2</CT>
+    <F>3</F>
+    <E>3</E>
+    <PV>3</PV>
+    <I>2</I>
+    <A>4</A>
+    <Cd>5</Cd>
+    <Svg>6+</Svg>
+    <Type>Infanterie</Type>
+    <Pts-Fig>13</Pts-Fig>
+</profil>
+<regles_speciales>
+    <regle_speciale>Nuées</regle_speciale>
+    <regle_speciale>Sans peur</regle_speciale>
+    <regle_speciale>Comportement instinctif (nutrition)</regle_speciale>
+</regles_speciales>
+<nombre_figurines>
+    <min>3</min>
+    <max>9</max>
+</nombre_figurines>
+<options>
+    <options_armes>
+        <option_arme>
+            <nom>Points épineux</nom>
+            <prix>4 pts/socle</prix>
+        </option_arme>
+    </options_armes>
+    <options_ameliorations>
+        <option_amelioration>
+            <nom>Sacs à toxines</nom>
+            <prix>4 pts/socle</prix>
+        </option_amelioration>
+        <option_amelioration>
+            <nom>Glandes surrénales</nom>
+            <prix>6 pts/socle</prix>
+        </option_amelioration>
+    </options_ameliorations>
+    <options_ameliorations>
+        <option_regle>
+            <nom>Frappe en profondeur</nom>
+            <prix>2 pts/socle</prix>
+        </option_regle>
+    </options_ameliorations>
+</options>
+</unite>
+
+
+</tyranides_troupes>

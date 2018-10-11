@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<orks_troupes>
+<language>FR</language>
+<Creator>Copyright Hugo Duret 2018</Creator>
+<License>MIT</License>
+<Version>Codex v.7</Version>
+<unite>
+<nom>Boyyyyzz</nom>
+<profil>
+    <CC>4</CC>
+    <CT>2</CT>
+    <F>3</F>
+    <E>4</E>
+    <PV>3</PV>
+    <I>4</I>
+    <A>2</A>
+    <Cd>10</Cd>
+    <Svg>6+</Svg>
+    <Type>Infanterie</Type>
+    <Pts-Fig>10</Pts-Fig>
+</profil>
+<armes>
+    <arme>Weapon</arme>
+    <arme>TrukQuiPète</arme>
+</armes>
+<regles_speciales>
+    <regle_speciale>Créature Synapse</regle_speciale>
+    <regle_speciale>L'ombre dans le Warp</regle_speciale>
+</regles_speciales>
+<nombre_figurines>
+    <min>5</min>
+    <max>15</max>
+</nombre_figurines>
+<options>
+    <options_armes>
+        <option_arme>
+            <nom>Biocanon de Base</nom>
+            <max>1</max>
+        </option_arme>
+        <option_arme>
+            <nom>Bio-arme de base</nom>
+        </option_arme>
+            <option_arme>
+            <nom>Bio-arme de Mêlée</nom>
+        </option_arme>
+    </options_armes>
+    <options_ameliorations>
+        <option_amelioration>
+            <nom>Sacs à toxines</nom>
+            <prix>3 pts/figurine</prix>
+        </option_amelioration>
+        <option_amelioration>
+            <nom>Crochets</nom>
+            <prix>4 pts/figurine</prix>
+        </option_amelioration>
+        <option_amelioration>
+            <nom>Glandes surrénales</nom>
+            <prix>5 pts/figurine</prix>
+        </option_amelioration>
+    </options_ameliorations>
+</options>
+</unite>
+
+
+
+
+
+
+</orks_troupes>
